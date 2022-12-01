@@ -41,10 +41,16 @@ Douban.conf
 BilibiliAutoRegion.conf
 # Youtube无中文字幕机翻方案 id77
 Youtube_CC.conf
-
-
-
-
+# 各种流媒体字幕翻译 Neurogram-R
+Dualsub.conf
+# 微信110解锁被屏蔽的URL zZPiglet
+WeChat110.conf
+# 指南针解锁经纬度 VirgilClyne
+Location.conf
+# Testflight共享+解锁区域限制 NobyDa
+TestFlightAccount.conf
+# Google自动翻页 langkhach
+EndlessGoogle.conf
 
 
 
