@@ -11,18 +11,36 @@ StartUp.conf
 YoutubeAds.conf
 # 微博最新去广告 zmqcherish
 Weibo.conf
-# 乎去广告 blackmatrix7
+# 知乎去广告 blackmatrix7
 Zhihu_Plus.conf
-
-
-
-
-
-
-
-
-
-
+# 什么值得买去广告 blackmatrix7
+Smzdm_Ads.conf
+# 百度贴吧去广告 app2smile
+Tieba_Ads.conf
+# 百度网盘去广告 等等 zqzess
+BdPanAdBlock.conf
+# 喜马拉雅去广告 ddgksf2013
+XmlyAdBlock.conf
+# 微博国际版去广告 ddgksf2013
+WeiboLite.conf
+# 小红书去广告 ddgksf2013
+XiaoHongShu.conf
+# B站CC繁体字幕转简体		ddgksf2013
+Bilibili_CC.conf
+# 百度网盘倍速		ddgksf2013
+BaiduCloud.conf
+# UposRedirect		ddgksf2013
+UposRedirect.conf
+# 自用影视网站去广告		ddgksf2013
+WebAdBlock.conf
+# Safari超级搜索V2.0 翻译·社区·购物·换区·视频·引擎 ddgksf2013
+Q-Search.conf
+# 豆瓣电影 网页优化+快捷观影 ddgksf2013
+Douban.conf
+# B站自动换区 Nobyda
+BilibiliAutoRegion.conf
+# Youtube无中文字幕机翻方案 id77
+Youtube_CC.conf
 
 
 
